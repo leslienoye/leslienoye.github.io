@@ -1,0 +1,9 @@
+<! -- DTD for restaurant identifiers -->
+<!ELEMENT Restaurants (Restaurant+)>
+<!ELEMENT Restaurants (id, Name, Cuisine, City, Open, Close)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Cuisine (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT Open (#PCDATA)>
+<!ELEMENT Close (#PCDATA)>

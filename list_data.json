@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"My Favorite Books": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Twilight",
+			"Author": "Stephanie Meyer",
+			"Genre": "Fantasy",
+			"Release Date": "2006"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Catcher in the Rye",
+			"Author": "J. D. Salinger",
+			"Genre": "Bildungsroman",
+			"Release Date": "1951"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Harry Potter and the Half-Blood Prince",
+			"Author": "J. K. Rowling",
+			"Genre": "Fantasy",
+			"Release Date": "2005"
 		}
 	]
 }
