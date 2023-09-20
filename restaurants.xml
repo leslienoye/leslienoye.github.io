@@ -1,5 +1,7 @@
 <?xml version=“1.0” encoding=“UTF-8" ?>
 <!DOCTYPE restaurants SYSTEM “restaurants.dtd”>
+<?xml version=“1.0” encoding=“UTF-8" ?>
+<!DOCTYPE restaurants SYSTEM “restaurants.dtd”>
 <restaurants>
     <restaurant>
         <id>0</id>
@@ -26,8 +28,6 @@
         <close>3pm</close>
     </restaurant>
 </restaurants>
-
-
 
 
 
